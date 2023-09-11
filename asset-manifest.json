@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/travel-agency-website-react-app/static/css/main.328005c8.css",
-    "main.js": "/travel-agency-website-react-app/static/js/main.58946e3f.js",
+    "main.css": "/travel-agency-website-react-app/static/css/main.ae4c8225.css",
+    "main.js": "/travel-agency-website-react-app/static/js/main.0fb34154.js",
+    "static/media/video-1.mp4": "/travel-agency-website-react-app/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/travel-agency-website-react-app/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/travel-agency-website-react-app/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-4.jpg": "/travel-agency-website-react-app/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/travel-agency-website-react-app/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-5.jpg": "/travel-agency-website-react-app/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-9.jpg": "/travel-agency-website-react-app/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/img-8.jpg": "/travel-agency-website-react-app/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/travel-agency-website-react-app/index.html",
-    "main.328005c8.css.map": "/travel-agency-website-react-app/static/css/main.328005c8.css.map",
-    "main.58946e3f.js.map": "/travel-agency-website-react-app/static/js/main.58946e3f.js.map"
+    "main.ae4c8225.css.map": "/travel-agency-website-react-app/static/css/main.ae4c8225.css.map",
+    "main.0fb34154.js.map": "/travel-agency-website-react-app/static/js/main.0fb34154.js.map"
   },
   "entrypoints": [
-    "static/css/main.328005c8.css",
-    "static/js/main.58946e3f.js"
+    "static/css/main.ae4c8225.css",
+    "static/js/main.0fb34154.js"
   ]
 }
