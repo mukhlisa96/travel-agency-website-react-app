@@ -1,4 +1,4 @@
-#DEMO: https://mukhlisa96.github.io/travel-agency-website-react-app/
+#DEMO: https://mukhlisa96.github.io/
 
 React website from scratch. React Hooks and React Router for this React JS Project. The website is fully responsive as well. 
 
